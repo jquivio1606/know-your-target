@@ -1,0 +1,92 @@
+============================================================
+          RECONOCIMIENTO CRT.SH + DIG
+          DOMINIO: roblox.com
+============================================================
+
+[3] [INTERESANTE] altdevforum.roblox.com
+------------------------------------------------------------
+    CNAME  altdevforum.roblox.com.edgekey.net.
+    A      altdevforum.roblox.com.edgekey.net.
+    A      e7229.dscb.akamaiedge.net.
+    A      2.19.221.72
+    AAAA   altdevforum.roblox.com.edgekey.net.
+    AAAA   e7229.dscb.akamaiedge.net.
+    AAAA   2a02:26f0:e0:189::1c3d
+    AAAA   2a02:26f0:e0:1a4::1c3d
+    
+[16] [INTERESANTE] authorize.roblox.com
+------------------------------------------------------------
+    CNAME  d21ab8vrnthqls.cloudfront.net.
+    A      d21ab8vrnthqls.cloudfront.net.
+    A      65.8.202.77
+    A      65.8.202.128
+    A      65.8.202.69
+    A      65.8.202.40
+    AAAA   d21ab8vrnthqls.cloudfront.net.
+    AAAA   2600:9000:2091:4400:15:d742:7c00:93a1
+    AAAA   2600:9000:2091:e000:15:d742:7c00:93a1
+    AAAA   2600:9000:2091:7600:15:d742:7c00:93a1
+    AAAA   2600:9000:2091:de00:15:d742:7c00:93a1
+    AAAA   2600:9000:2091:5800:15:d742:7c00:93a1
+    AAAA   2600:9000:2091:6a00:15:d742:7c00:93a1
+    AAAA   2600:9000:2091:c800:15:d742:7c00:93a1
+    AAAA   2600:9000:2091:800:15:d742:7c00:93a1
+
+[17] [INTERESANTE] awsvpn.roblox.com
+------------------------------------------------------------
+    A      208.185.173.211
+
+[46] [INTERESANTE] developer.roblox.com
+------------------------------------------------------------
+    CNAME  dgyj45q6wb7mf.cloudfront.net.
+    A      dgyj45q6wb7mf.cloudfront.net.
+    A      13.224.83.28
+    A      13.224.83.40
+    A      13.224.83.73
+    A      13.224.83.117
+    AAAA   dgyj45q6wb7mf.cloudfront.net.
+    AAAA   2600:9000:2131:2a00:1d:dab4:d5c0:93a1
+    AAAA   2600:9000:2131:5000:1d:dab4:d5c0:93a1
+    AAAA   2600:9000:2131:a400:1d:dab4:d5c0:93a1
+    AAAA   2600:9000:2131:2000:1d:dab4:d5c0:93a1
+    AAAA   2600:9000:2131:b000:1d:dab4:d5c0:93a1
+    AAAA   2600:9000:2131:be00:1d:dab4:d5c0:93a1
+    AAAA   2600:9000:2131:7400:1d:dab4:d5c0:93a1
+    AAAA   2600:9000:2131:6400:1d:dab4:d5c0:93a1
+
+[48] [INTERESANTE] devforum.roblox.com
+------------------------------------------------------------
+    CNAME  d2q866xnpzp6fb.cloudfront.net.
+    A      d2q866xnpzp6fb.cloudfront.net.
+    A      3.174.170.92
+    A      3.174.170.62
+    A      3.174.170.18
+    A      3.174.170.121
+    AAAA   d2q866xnpzp6fb.cloudfront.net.
+    AAAA   2600:9000:2903:d200:1d:f6e8:f1c0:93a1
+    AAAA   2600:9000:2903:a200:1d:f6e8:f1c0:93a1
+    AAAA   2600:9000:2903:8e00:1d:f6e8:f1c0:93a1
+    AAAA   2600:9000:2903:200:1d:f6e8:f1c0:93a1
+    AAAA   2600:9000:2903:9c00:1d:f6e8:f1c0:93a1
+    AAAA   2600:9000:2903:7200:1d:f6e8:f1c0:93a1
+    AAAA   2600:9000:2903:ae00:1d:f6e8:f1c0:93a1
+    AAAA   2600:9000:2903:3c00:1d:f6e8:f1c0:93a1
+
+[60] [INTERESANTE] games.api.roblox.com
+------------------------------------------------------------
+    CNAME  titanium-private.roblox.com.
+    A      titanium-private.roblox.com.
+    A      edge-term4.roblox.com.
+    A      edge-term4-ams2.roblox.com.
+    A      128.116.21.3
+    AAAA   titanium-private.roblox.com.
+    AAAA   edge-term4.roblox.com.
+    AAAA   edge-term4-ams2.roblox.com.
+
+[77] [INTERESANTE] nrt-gw.vpn.cn.roblox.com
+------------------------------------------------------------
+    A      103.142.221.2
+
+[120] [INTERESANTE] vpn.cn.roblox.com
+------------------------------------------------------------
+    A      103.142.221.3

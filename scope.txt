@@ -1,0 +1,13 @@
+# Programa: Roblox Bug Bounty
+# Fuente: https://hackerone.com/roblox
+# Fecha de consulta: 30/10/2026
+# Uso: reconocimiento pasivo exclusivamente
+
+# DENTRO DEL ALCANCE
+*.roblox.com
+*.rbx.com
+blox.link
+*.ra.roblox.com
+
+# FUERA DEL ALCANCE
+!*.guilded.gg

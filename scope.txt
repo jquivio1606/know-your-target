@@ -4,6 +4,7 @@
 # Uso: reconocimiento pasivo exclusivamente
 
 # DENTRO DEL ALCANCE
+roblox.com
 *.roblox.com
 *.rbx.com
 blox.link
